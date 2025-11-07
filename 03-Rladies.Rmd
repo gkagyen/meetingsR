@@ -77,6 +77,12 @@ gender diversity in the R community.
  
  * Tbilisi: [R-Ladies Tbilisi](https://www.meetup.com/rladies-tbilisi/); [\@RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
   
+### Ghana `r get_btn()`
+
+ * Accra: [R-Ladies Accra](https://www.meetup.com/rladies-accra/)
+ * Cape Coast: [R-Ladies Cape Coast](https://www.meetup.com/rladies-cape-coast/)
+ * Kumasi: [R-Ladies Kumasi](https://www.meetup.com/rladies-kumasi/)
+
 ### Ireland `r get_btn()`
 
  * Dublin: [R-Ladies Dublin](https://www.meetup.com/rladies-dublin/); [\@RLadiesDublin](https://twitter.com/RLadiesDublin)
