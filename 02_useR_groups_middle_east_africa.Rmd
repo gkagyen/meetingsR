@@ -29,6 +29,12 @@ knit: "bookdown::preview_chapter"
   * Cairo: [Cairo Bioinformatics Group](https://www.meetup.com/Cairo-Bioinformatics-Group/)
   * Cairo: [Cairo R Users Group](https://www.meetup.com/Cairo-R-Users-Group/)
 
+### Ghana `r get_btn()`
+
+  * Ghana: [Ghana R Users Community](https://ghana-rusers.org/) 
+  * Ghana: [Follow us on twitter](https://x.com/RUsersGhana)
+  * Ghana: [Join our meetup group](https://www.meetup.com/ghana-r-users-community/)
+
 ### Israel `r get_btn()`
 
   * Tel Aviv: [Israel R User Group](https://groups.google.com/group/israel-r-user-group)
