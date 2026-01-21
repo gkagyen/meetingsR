@@ -31,9 +31,7 @@ knit: "bookdown::preview_chapter"
 
 ### Ghana `r get_btn()`
 
-  * Ghana: [Ghana R Users Community](https://ghana-rusers.org/) 
-  * Ghana: [Follow us on twitter](https://x.com/RUsersGhana)
-  * Ghana: [Join our meetup group](https://www.meetup.com/ghana-r-users-community/)
+  * Ghana: [Ghana R Users Community](https://ghana-rusers.org/); [\@RUsersGhana](https://x.com/RUsersGhana)
 
 ### Israel `r get_btn()`
 
